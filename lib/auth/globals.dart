@@ -1,0 +1,21 @@
+import 'package:image_picker/image_picker.dart';
+
+XFile? globalImage;
+XFile? globalBackImage;
+XFile? frontProfile;
+XFile? panFimage;
+XFile? panBimage;
+XFile? licenseFimage;
+XFile? licenseBimage;
+String ConfirmUID = "";
+String ConfirmNumber = "";
+String ConfirmAadharNumber = "";
+String ConfirmPanNumber = "";
+String ConfirmLicenseNumber = "";
+String ConfirmBankAccountNumber = "";
+String ConfirmIfscCode = "";
+String ConfirmBankName = "";
+String ConfirmBranch = "";
+String ConfirmVehicleNumber = "";
+String Status_Code = "";
+double DriverBalance = 0;

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077028470799",
+    "project_id": "chop-chop-logistic",
+    "storage_bucket": "chop-chop-logistic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077028470799:android:e86a55f979c208af99e37a",
+        "android_client_info": {
+          "package_name": "com.example.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCURinmcZJlL1Fz4u8YBykcNswoqaIAxks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
