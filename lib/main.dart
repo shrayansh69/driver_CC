@@ -13,7 +13,6 @@ void main() async {
     DeviceOrientation.portraitUp,
   ]);
   await WidgetsFlutterBinding.ensureInitialized();
-
   // await Firebase.initializeApp();
   runApp(MyApp());
 }
