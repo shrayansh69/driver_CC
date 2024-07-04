@@ -100,7 +100,7 @@ class _accept1State extends State<accept1> {
     // Replace latitude and longitude with the actual location you want to open.
 
     String googleMapsUrl =
-        'https://www.google.com/maps/search/?api=1&query=$latitude, $logitude';
+        'https://www.google.com/maps/search/?api=1&query=$latt, $logg';
 
     if (await canLaunch(googleMapsUrl)) {
       await launch(googleMapsUrl);

@@ -50,7 +50,7 @@ class _OrdersListState extends State<OrdersList> {
     data = [];
     fetchDataFromAPI();
     fetchDataFromAPI2();
-    _timer = Timer.periodic(Duration(seconds: 15), (Timer timer) {
+    _timer = Timer.periodic(Duration(seconds: 2), (Timer timer) {
       fetchDataFromAPI();
     });
   }
